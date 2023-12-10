@@ -1,5 +1,5 @@
 # LBG
-ASAALAMOALAIKUM EVERYONE! This is Free Tool :) Don't Worry Fer Update 
+ASAALAMOALAIKUM EVERYONE! This is Free Tool :) Don't Worry For Update 
 👇 Command 
 git clone https://github.com/tharkimunda/LBG
 cd LBG
